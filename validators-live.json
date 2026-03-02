@@ -1,0 +1,186 @@
+{
+  "timestamp": "2026-03-01T00:12:50.237305",
+  "source": "stakewiz",
+  "validators": [
+    {
+      "identity": "6gnbmed7kzwQVQ7ghsjgEuCoYmGeWciV2qCwni6WS6HU",
+      "name": "Capital Alliance \ud83d\udd25",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "parafiUS6h6oLhCFwhjvEmQJKw8pF1iXsxMJdTq46dS",
+      "name": "ParaFi Technologies",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.15,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "6k1YkmTKwPRUhChnxA9ryJmbtuQMbro4xFTL6mL9jycB",
+      "name": "Sign Labs \ud83e\udd1f",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.15,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "LimeA3gMLb2SjxrKbP7NsWk1UwTZrw4B6Ctc9dmVU6E",
+      "name": "LimeChain",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "9FXD1NXrK6xFU8i4gLAgjj2iMEWTqJhSuQN8tQuDfm2e",
+      "name": "Grassets Tech | Jito-BAM | IBRL",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "CVRr5oHCAAooVbYze7CvXtRp4FUtkMCSqBZU7MVu8v8e",
+      "name": "Coverlet+MEV | 0% ALL FEES \u2705",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "7HMHSdQkjDwz9Q5zAhEy83uzW3XHJchjdpMYapKXcKt5",
+      "name": "GERSIA",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.15,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "HnwMGBAw5PxaX56eSYc969MorEy2NzEMPLkmBkdnJmeq",
+      "name": "\u2b50StepByStep\u2b50 0%Fee+Jito MEV",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.15,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "6xFDLX751L7H9d5fQT9sf2SM5RWWE9LDgqz25pPDbWoJ",
+      "name": "TdrSys",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "A23LfQn6khffj2hGhGfXr6P52W2pxrVcCaHVQLYQgiX2",
+      "name": "vladika",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "8ebFZA8NPLBZD91CwsG1HWQsa2B5Ludgdyf5Hi3sYhhs",
+      "name": "stake.systems",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "7PpXQgDb9eCHN1Uudgi77Wm89cRz4T85YgDw83qvaJXd",
+      "name": "Nodance \ud83d\udc83 00",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "HVXXmNKkmDZbZwj74iL2Y9Wu4SyrchBoxAfFYVAktLrG",
+      "name": "fat tails lab",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "8AkVj5aAtJ27tYXeq89cnSf68V43NarFHMx2iSDjZv7c",
+      "name": "Theta",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "CpuDNi3iVoHXbaT8gHpzKe6rqeBasoYjEKi21q7NRVJS",
+      "name": "val37",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "ADjyeNzWd8yhEjCVyAqT87eqoyGRbimERQsNhFQcXjop",
+      "name": "\ud83d\udca5InfiniteSOL\ud83d\udca5 0% Fees",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.15,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "vahMVcSS3v6uwyFormV7FDAUbQSHwmy6vUedp1P7L42",
+      "name": "StakeITeasy\ud83d\ude80High APY + 0% fee\u2705 + MEV\ud83d\udd25",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.15,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "2kVZVTY8FMRZ3WuHzyqNz8qd4Ytbba9f9DaesUm5WLvR",
+      "name": "SunStake",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "NordEHiwa6wT5TCjdeWJzpsA7DSmWQPqfSS7m2b6cv3",
+      "name": "nordstar \u2b50 reliable staking +MEV",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.15,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "2P9ZYA4vBoBBr56hrEFTmrd5ctuz3r7wtvRYmbgk6jRL",
+      "name": "Sunshine",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.16,
+      "uptime": 0,
+      "dataCenter": ""
+    }
+  ]
+}

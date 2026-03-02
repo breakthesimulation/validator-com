@@ -1,0 +1,145 @@
+{
+  "timestamp": "2026-03-02T04:58:15.879749",
+  "validators": [
+    {
+      "name": "ParaFi Technologies",
+      "commission": 0,
+      "stake_sol": 0.13,
+      "apy": 6.13,
+      "uptime": 100
+    },
+    {
+      "name": "Capital Alliance \ud83d\udd25",
+      "commission": 0,
+      "stake_sol": 0.16,
+      "apy": 6.14,
+      "uptime": 100
+    },
+    {
+      "name": "Sign Labs \ud83e\udd1f",
+      "commission": 0,
+      "stake_sol": 0.15,
+      "apy": 6.13,
+      "uptime": 100
+    },
+    {
+      "name": "Coverlet+MEV | 0% ALL FEES \u2705",
+      "commission": 0,
+      "stake_sol": 0.12,
+      "apy": 6.14,
+      "uptime": 100
+    },
+    {
+      "name": "LimeChain",
+      "commission": 0,
+      "stake_sol": 0.14,
+      "apy": 6.14,
+      "uptime": 99.98
+    },
+    {
+      "name": "Grassets Tech | Jito-BAM | IBRL",
+      "commission": 0,
+      "stake_sol": 0.19,
+      "apy": 6.14,
+      "uptime": 100
+    },
+    {
+      "name": "GERSIA",
+      "commission": 0,
+      "stake_sol": 0.13,
+      "apy": 6.13,
+      "uptime": 100
+    },
+    {
+      "name": "TdrSys",
+      "commission": 0,
+      "stake_sol": 0.17,
+      "apy": 6.14,
+      "uptime": 100
+    },
+    {
+      "name": "Soldea Kitchen",
+      "commission": 0,
+      "stake_sol": 0.13,
+      "apy": 6.14,
+      "uptime": 99.99
+    },
+    {
+      "name": "stake.systems",
+      "commission": 0,
+      "stake_sol": 0.19,
+      "apy": 6.14,
+      "uptime": 100
+    },
+    {
+      "name": "SunStake",
+      "commission": 0,
+      "stake_sol": 0.15,
+      "apy": 6.14,
+      "uptime": 100
+    },
+    {
+      "name": "vladika",
+      "commission": 0,
+      "stake_sol": 0.16,
+      "apy": 6.14,
+      "uptime": 100
+    },
+    {
+      "name": "fat tails lab",
+      "commission": 0,
+      "stake_sol": 0.23,
+      "apy": 6.14,
+      "uptime": 100
+    },
+    {
+      "name": "\u2b50StepByStep\u2b50 0%Fee+Jito MEV",
+      "commission": 0,
+      "stake_sol": 0.12,
+      "apy": 6.13,
+      "uptime": 100
+    },
+    {
+      "name": "\ud83d\udca5InfiniteSOL\ud83d\udca5 0% Fees",
+      "commission": 0,
+      "stake_sol": 0.18,
+      "apy": 6.13,
+      "uptime": 100
+    },
+    {
+      "name": "StakeITeasy\ud83d\ude80High APY + 0% fee\u2705 + MEV\ud83d\udd25",
+      "commission": 0,
+      "stake_sol": 0.21,
+      "apy": 6.13,
+      "uptime": 100
+    },
+    {
+      "name": "Nodance \ud83d\udc83 00",
+      "commission": 0,
+      "stake_sol": 0.15,
+      "apy": 6.14,
+      "uptime": 100
+    },
+    {
+      "name": "nordstar \u2b50 reliable staking +MEV",
+      "commission": 0,
+      "stake_sol": 0.2,
+      "apy": 6.13,
+      "uptime": 100
+    },
+    {
+      "name": "val37",
+      "commission": 0,
+      "stake_sol": 0.16,
+      "apy": 6.14,
+      "uptime": 100
+    },
+    {
+      "name": "Theta",
+      "commission": 0,
+      "stake_sol": 0.24,
+      "apy": 6.14,
+      "uptime": 100
+    }
+  ]
+}
