@@ -3,14 +3,14 @@
 ## ✅ Completed
 
 - fetch-validators.py working
-- Top 20 validators data pulling correctly
-- Docs folder created
+- GitHub repo created and pushed
+- Docs folder with index.md
 
 ## ⏳ In Progress
 
-- Mintlify deployment (needs GitHub repo)
-- Public endpoint (needs Vercel)
+- Mintlify deployment (connect repo to Mintlify)
 
-## Data
+## Links
 
-Live validator data: /data/validators.json
+- GitHub: https://github.com/breakthesimulation/validator-com
+- Data: /data/validators.json
