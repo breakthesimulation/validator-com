@@ -29,12 +29,13 @@ Returns list of top validators with detailed metrics.
 |-------|------|-------------|
 | name | string | Validator name |
 | commission | number | Commission rate (0-100) |
-| stake_sol | number | Total stake in SOL (millions) |
+| stake_sol | number | Total stake in SOL |
+| stake_millions | number | Total stake in millions of SOL |
 | apy | number | Annual percentage yield |
 | uptime | number | Uptime percentage |
-| epoch | number | Current epoch |
 | rank | number | Validator rank by stake |
-| deliquency | boolean | Whether validator is delinquent |
+| delinquent | boolean | Whether validator is delinquent |
+| is_jito | boolean | Whether validator runs Jito MEV |
 
 ### Get Validator Details
 
