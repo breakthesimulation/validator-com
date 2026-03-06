@@ -1,145 +1,225 @@
 {
-  "timestamp": "2026-03-02T04:58:15.879749",
+  "timestamp": "2026-03-06T15:10:39.540131",
   "validators": [
     {
       "name": "ParaFi Technologies",
       "commission": 0,
-      "stake_sol": 0.13,
-      "apy": 6.13,
-      "uptime": 100
-    },
-    {
-      "name": "Capital Alliance \ud83d\udd25",
-      "commission": 0,
-      "stake_sol": 0.16,
-      "apy": 6.14,
-      "uptime": 100
-    },
-    {
-      "name": "Sign Labs \ud83e\udd1f",
-      "commission": 0,
-      "stake_sol": 0.15,
-      "apy": 6.13,
-      "uptime": 100
-    },
-    {
-      "name": "Coverlet+MEV | 0% ALL FEES \u2705",
-      "commission": 0,
-      "stake_sol": 0.12,
-      "apy": 6.14,
-      "uptime": 100
+      "stake_sol": 136144.33,
+      "stake_millions": 0.14,
+      "apy": 6.24,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 1,
+      "is_jito": true
     },
     {
       "name": "LimeChain",
       "commission": 0,
-      "stake_sol": 0.14,
-      "apy": 6.14,
-      "uptime": 99.98
+      "stake_sol": 153328.71,
+      "stake_millions": 0.15,
+      "apy": 6.25,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 2,
+      "is_jito": true
+    },
+    {
+      "name": "Capital Alliance \ud83d\udd25",
+      "commission": 0,
+      "stake_sol": 159965.51,
+      "stake_millions": 0.16,
+      "apy": 6.25,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 3,
+      "is_jito": true
+    },
+    {
+      "name": "Yurbason",
+      "commission": 0,
+      "stake_sol": 159162.75,
+      "stake_millions": 0.16,
+      "apy": 6.25,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 4,
+      "is_jito": true
+    },
+    {
+      "name": "L0vd 0% fee +MEV",
+      "commission": 0,
+      "stake_sol": 140250.4,
+      "stake_millions": 0.14,
+      "apy": 6.25,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 5,
+      "is_jito": true
+    },
+    {
+      "name": "Sign Labs \ud83e\udd1f",
+      "commission": 0,
+      "stake_sol": 146454.48,
+      "stake_millions": 0.15,
+      "apy": 6.24,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 6,
+      "is_jito": true
+    },
+    {
+      "name": "polkachu.com",
+      "commission": 0,
+      "stake_sol": 149051.85,
+      "stake_millions": 0.15,
+      "apy": 6.24,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 7,
+      "is_jito": true
     },
     {
       "name": "Grassets Tech | Jito-BAM | IBRL",
       "commission": 0,
-      "stake_sol": 0.19,
-      "apy": 6.14,
-      "uptime": 100
+      "stake_sol": 191862.44,
+      "stake_millions": 0.19,
+      "apy": 6.25,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 8,
+      "is_jito": true
+    },
+    {
+      "name": "Quantix",
+      "commission": 0,
+      "stake_sol": 174385.43,
+      "stake_millions": 0.17,
+      "apy": 6.24,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 9,
+      "is_jito": true
+    },
+    {
+      "name": "BOOP Wizard",
+      "commission": 0,
+      "stake_sol": 177386.14,
+      "stake_millions": 0.18,
+      "apy": 6.24,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 10,
+      "is_jito": true
     },
     {
       "name": "GERSIA",
       "commission": 0,
-      "stake_sol": 0.13,
-      "apy": 6.13,
-      "uptime": 100
-    },
-    {
-      "name": "TdrSys",
-      "commission": 0,
-      "stake_sol": 0.17,
-      "apy": 6.14,
-      "uptime": 100
-    },
-    {
-      "name": "Soldea Kitchen",
-      "commission": 0,
-      "stake_sol": 0.13,
-      "apy": 6.14,
-      "uptime": 99.99
-    },
-    {
-      "name": "stake.systems",
-      "commission": 0,
-      "stake_sol": 0.19,
-      "apy": 6.14,
-      "uptime": 100
-    },
-    {
-      "name": "SunStake",
-      "commission": 0,
-      "stake_sol": 0.15,
-      "apy": 6.14,
-      "uptime": 100
-    },
-    {
-      "name": "vladika",
-      "commission": 0,
-      "stake_sol": 0.16,
-      "apy": 6.14,
-      "uptime": 100
-    },
-    {
-      "name": "fat tails lab",
-      "commission": 0,
-      "stake_sol": 0.23,
-      "apy": 6.14,
-      "uptime": 100
-    },
-    {
-      "name": "\u2b50StepByStep\u2b50 0%Fee+Jito MEV",
-      "commission": 0,
-      "stake_sol": 0.12,
-      "apy": 6.13,
-      "uptime": 100
-    },
-    {
-      "name": "\ud83d\udca5InfiniteSOL\ud83d\udca5 0% Fees",
-      "commission": 0,
-      "stake_sol": 0.18,
-      "apy": 6.13,
-      "uptime": 100
-    },
-    {
-      "name": "StakeITeasy\ud83d\ude80High APY + 0% fee\u2705 + MEV\ud83d\udd25",
-      "commission": 0,
-      "stake_sol": 0.21,
-      "apy": 6.13,
-      "uptime": 100
-    },
-    {
-      "name": "Nodance \ud83d\udc83 00",
-      "commission": 0,
-      "stake_sol": 0.15,
-      "apy": 6.14,
-      "uptime": 100
+      "stake_sol": 134813.33,
+      "stake_millions": 0.13,
+      "apy": 6.24,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 11,
+      "is_jito": true
     },
     {
       "name": "nordstar \u2b50 reliable staking +MEV",
       "commission": 0,
-      "stake_sol": 0.2,
-      "apy": 6.13,
-      "uptime": 100
+      "stake_sol": 199300.61,
+      "stake_millions": 0.2,
+      "apy": 6.24,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 12,
+      "is_jito": true
+    },
+    {
+      "name": "\ud83d\udca5InfiniteSOL\ud83d\udca5 0% Fees",
+      "commission": 0,
+      "stake_sol": 180211.4,
+      "stake_millions": 0.18,
+      "apy": 6.24,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 13,
+      "is_jito": true
+    },
+    {
+      "name": "vladika",
+      "commission": 0,
+      "stake_sol": 163661.59,
+      "stake_millions": 0.16,
+      "apy": 6.25,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 14,
+      "is_jito": true
     },
     {
       "name": "val37",
       "commission": 0,
-      "stake_sol": 0.16,
-      "apy": 6.14,
-      "uptime": 100
+      "stake_sol": 161129.48,
+      "stake_millions": 0.16,
+      "apy": 6.25,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 15,
+      "is_jito": true
     },
     {
-      "name": "Theta",
+      "name": "fat tails lab",
       "commission": 0,
-      "stake_sol": 0.24,
-      "apy": 6.14,
-      "uptime": 100
+      "stake_sol": 229289.98,
+      "stake_millions": 0.23,
+      "apy": 6.25,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 16,
+      "is_jito": true
+    },
+    {
+      "name": "SunStake",
+      "commission": 0,
+      "stake_sol": 163432.02,
+      "stake_millions": 0.16,
+      "apy": 6.25,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 17,
+      "is_jito": true
+    },
+    {
+      "name": "Glory to Ukraine",
+      "commission": 0,
+      "stake_sol": 219534.2,
+      "stake_millions": 0.22,
+      "apy": 6.25,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 18,
+      "is_jito": true
+    },
+    {
+      "name": "StakeITeasy\ud83d\ude80High APY + 0% fee\u2705 + MEV\ud83d\udd25",
+      "commission": 0,
+      "stake_sol": 222074.74,
+      "stake_millions": 0.22,
+      "apy": 6.24,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 19,
+      "is_jito": true
+    },
+    {
+      "name": "NuFi",
+      "commission": 0,
+      "stake_sol": 227657.14,
+      "stake_millions": 0.23,
+      "apy": 6.25,
+      "uptime": 100,
+      "delinquent": false,
+      "rank": 20,
+      "is_jito": true
     }
   ]
 }

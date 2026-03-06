@@ -10,9 +10,13 @@ try:
         validators.append({
             "name": v.get("name", v.get("identity", "Unknown")[:12]),
             "commission": v.get("commission", 0),
-            "stake_sol": round(v.get("activated_stake", 0) / 1e6, 2),
+            "stake_sol": round(v.get("activated_stake", 0), 2),
+            "stake_millions": round(v.get("activated_stake", 0) / 1e6, 2),
             "apy": v.get("apy_estimate", 0),
             "uptime": v.get("uptime", 0),
+            "delinquent": v.get("delinquent", False),
+            "rank": v.get("rank", 0),
+            "is_jito": v.get("is_jito", False),
         })
     
     out = {"timestamp": datetime.now().isoformat(), "validators": validators}
