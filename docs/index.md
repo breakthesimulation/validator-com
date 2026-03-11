@@ -1,121 +1,48 @@
 ---
-title: Introduction
-description: Validator.com API Documentation
+title: Top Solana Validators 2026
+description: Compare and choose the best Solana validators for staking. View commission, APY, uptime, and performance metrics.
 ---
 
-# Validator.com API
+# Top Solana Validators
 
-API endpoint for fetching Solana validator data.
+Compare and stake with the best Solana validators. We track the top 20 validators by stake, providing real-time metrics to help you make informed staking decisions.
 
-## Base URL
+## Top Validators
 
-```
-https://validator.com/api
-```
+| # | Validator | Commission | Stake | APY | Uptime | Jito |
+|---|-----------|------------|-------|-----|--------|------|
+| 1 | [ParaFi Technologies](/docs/validators/parafi-technologies) | 0% | 142,004 SOL | 6.13% | 100% | ✅ |
+| 2 | [LimeChain](/docs/validators/limechain) | 8% | 157,222 SOL | 5.64% | 99.9% | ✅ |
+| 3 | [SoLyrae](/docs/validators/solyrae) | 5% | 169,860 SOL | 5.89% | 99.9% | ✅ |
+| 4 | [Capital Alliance](/docs/validators/capital-alliance-) | 0% | 162,634 SOL | 6.13% | 100% | ✅ |
+| 5 | [Yurbason](/docs/validators/yurbason) | 5% | 160,432 SOL | 5.89% | 99.9% | ✅ |
+| 6 | [Valid Blocks](/docs/validators/valid-blocks) | 5% | 145,111 SOL | 5.89% | 99.9% | ✅ |
+| 7 | [Bitget Wallet](/docs/validators/bitget-wallet) | 5% | 135,995 SOL | 5.89% | 99.9% | ✅ |
+| 8 | [L0vd 0% fee +MEV](/docs/validators/l0vd-0-fee-mev) | 0% | 132,365 SOL | 6.13% | 100% | ✅ |
+| 9 | [polkachu.com](/docs/validators/polkachucom) | 5% | 128,890 SOL | 5.89% | 99.9% | ✅ |
+| 10 | [Sign Labs](/docs/validators/sign-labs-) | 5% | 124,567 SOL | 5.89% | 99.9% | ✅ |
 
-## Endpoints
+[View all 20 validators →](/docs/validators/)
 
-### Get Validators
+## Why Validator Choice Matters
 
-```bash
-GET /data/validators.json
-```
+- **Commission**: Lower commission = more rewards for you
+- **Uptime**: Higher uptime = more consistent rewards
+- **Jito MEV**: Validators with Jito capture MEV and share with stakers
 
-Returns list of top validators with detailed metrics.
+## Staking Guides
 
-**Response Fields:**
+- [How to Stake SOL (2026) →](/docs/guides/how-to-stake-sol)
+- [Validator Comparison Guide →](/docs/guides/validator-comparison)
+- [Understanding Staking Rewards →](/docs/guides/staking-rewards)
 
-| Field | Type | Description |
-|-------|------|-------------|
-| name | string | Validator name |
-| commission | number | Commission rate (0-100) |
-| stake_sol | number | Total stake in SOL |
-| stake_millions | number | Total stake in millions of SOL |
-| apy | number | Annual percentage yield |
-| uptime | number | Uptime percentage |
-| rank | number | Validator rank by stake |
-| delinquent | boolean | Whether validator is delinquent |
-| is_jito | boolean | Whether validator runs Jito MEV |
+## How to Stake
 
-### Get Validator Details
+1. Open your Solana wallet (Phantom, Solflare, etc.)
+2. Navigate to Staking
+3. Choose a validator from our list
+4. Select amount and stake
 
-```bash
-GET /api/validator/{name}
-```
+## Latest Data
 
-Returns detailed info for a specific validator.
-
-### Get Market Stats
-
-```bash
-GET /api/stats
-```
-
-Returns network-wide statistics.
-
-## Example Response
-
-```json
-{
-  "validators": [
-    {
-      "name": "ParaFi Technologies",
-      "commission": 0,
-      "stake_sol": 0.13,
-      "apy": 6.13,
-      "uptime": 100,
-      "epoch": 636,
-      "rank": 1,
-      "delinquency": false
-    }
-  ],
-  "network_stats": {
-    "total_stake": 450000000,
-    "validator_count": 1850,
-    "avg_apy": 6.2
-  }
-}
-```
-
-## Rate Limits
-
-- 100 requests per minute for public endpoints
-- 1000 requests per minute for authenticated endpoints
-
-## Authentication
-
-Some endpoints require an API key. Include in header:
-
-```
-X-API-Key: your-api-key
-```
-
-## SDK Examples
-
-### Python
-
-```python
-import requests
-
-resp = requests.get("https://validator.com/data/validators.json")
-validators = resp.json()
-for v in validators["validators"]:
-    print(f"{v['name']}: {v['apy']}% APY")
-```
-
-### JavaScript
-
-```javascript
-fetch('https://validator.com/data/validators.json')
-  .then(r => r.json())
-  .then(data => {
-    data.validators.forEach(v => {
-      console.log(`${v.name}: ${v.apy}% APY`);
-    });
-  });
-```
-
-## Support
-
-- Email: support@validator.com
-- Discord: https://discord.gg/validatorcom
+Last updated: March 8, 2026

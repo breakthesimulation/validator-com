@@ -6,7 +6,7 @@ try:
     data = r.json()
     
     validators = []
-    for v in data[:20]:
+    for v in data[:100]:
         validators.append({
             "name": v.get("name", v.get("identity", "Unknown")[:12]),
             "commission": v.get("commission", 0),
@@ -21,7 +21,7 @@ try:
     
     out = {"timestamp": datetime.now().isoformat(), "validators": validators}
     
-    with open("/home/openclaw/vault/Dev/validator-com/validators.json", "w") as f:
+    with open("/home/openclaw/public/data/validators.json", "w") as f:
         json.dump(out, f, indent=2)
     
     print(f"Got {len(validators)} validators")
