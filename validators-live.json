@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-11T01:20:10.104207",
+  "timestamp": "2026-03-15T00:00:04.215212",
   "source": "stakewiz",
   "validators": [
     {
@@ -7,7 +7,7 @@
       "name": "ParaFi Technologies",
       "commission": 0,
       "activeStake": 0.0,
-      "apy": 6.15,
+      "apy": 6.09,
       "uptime": 0,
       "dataCenter": ""
     },
@@ -16,7 +16,7 @@
       "name": "LimeChain",
       "commission": 0,
       "activeStake": 0.0,
-      "apy": 6.15,
+      "apy": 6.09,
       "uptime": 0,
       "dataCenter": ""
     },
@@ -25,7 +25,7 @@
       "name": "Capital Alliance \ud83d\udd25",
       "commission": 0,
       "activeStake": 0.0,
-      "apy": 6.15,
+      "apy": 6.09,
       "uptime": 0,
       "dataCenter": ""
     },
@@ -34,52 +34,7 @@
       "name": "Yurbason",
       "commission": 0,
       "activeStake": 0.0,
-      "apy": 6.15,
-      "uptime": 0,
-      "dataCenter": ""
-    },
-    {
-      "identity": "EdFUcP2f6j9iBg5BqsgJn3WDr1JieiKCo41hZ5Zrsk6w",
-      "name": "Bitget Wallet",
-      "commission": 0,
-      "activeStake": 0.0,
-      "apy": 6.15,
-      "uptime": 0,
-      "dataCenter": ""
-    },
-    {
-      "identity": "8aySXUFrqJz5kath6aVijrkBH8ZtxMWJGhYXwYBpKmHK",
-      "name": "L0vd 0% fee +MEV",
-      "commission": 0,
-      "activeStake": 0.0,
-      "apy": 6.15,
-      "uptime": 0,
-      "dataCenter": ""
-    },
-    {
-      "identity": "1unarWPGGseFag2WfnoFv8o9P7vTPU8eHex9GinP3eY",
-      "name": "Luminal",
-      "commission": 0,
-      "activeStake": 0.0,
-      "apy": 6.14,
-      "uptime": 0,
-      "dataCenter": ""
-    },
-    {
-      "identity": "7Nu9ckgtjobZ3MkbadGFKEvRymYuah9HmcxiUJKMM9NB",
-      "name": "SoLyrae",
-      "commission": 0,
-      "activeStake": 0.0,
-      "apy": 6.14,
-      "uptime": 0,
-      "dataCenter": ""
-    },
-    {
-      "identity": "JC7bH7HSZoDhwggBXtRF31cVt71WiizY2J6YDDQfG5er",
-      "name": "Valid Blocks",
-      "commission": 0,
-      "activeStake": 0.0,
-      "apy": 6.15,
+      "apy": 6.09,
       "uptime": 0,
       "dataCenter": ""
     },
@@ -88,7 +43,16 @@
       "name": "Sign Labs \ud83e\udd1f",
       "commission": 0,
       "activeStake": 0.0,
-      "apy": 6.15,
+      "apy": 6.09,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "8aySXUFrqJz5kath6aVijrkBH8ZtxMWJGhYXwYBpKmHK",
+      "name": "L0vd 0% fee +MEV",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.09,
       "uptime": 0,
       "dataCenter": ""
     },
@@ -97,7 +61,25 @@
       "name": "polkachu.com",
       "commission": 0,
       "activeStake": 0.0,
-      "apy": 6.1,
+      "apy": 6.09,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "EdFUcP2f6j9iBg5BqsgJn3WDr1JieiKCo41hZ5Zrsk6w",
+      "name": "Bitget Wallet",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.09,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "JC7bH7HSZoDhwggBXtRF31cVt71WiizY2J6YDDQfG5er",
+      "name": "Valid Blocks",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.09,
       "uptime": 0,
       "dataCenter": ""
     },
@@ -106,7 +88,7 @@
       "name": "Grassets Tech | Jito-BAM | IBRL",
       "commission": 0,
       "activeStake": 0.0,
-      "apy": 6.15,
+      "apy": 6.09,
       "uptime": 0,
       "dataCenter": ""
     },
@@ -115,7 +97,43 @@
       "name": "TdrSys",
       "commission": 0,
       "activeStake": 0.0,
-      "apy": 6.15,
+      "apy": 6.09,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "4VrjyXQT61WFSjuG3ehgqZUK1jqvYqB46veQbXLotq3n",
+      "name": "Vault X | 0% fee +MEV",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.09,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "FjYEr2UCeFzNfAKiFrbhG34Zv8LxbmfHYAFhAfc7SLQL",
+      "name": "Easytoken.me",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.09,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "2uxEHizFmmnLekKG2LZJwxNabhpymEYfdVCpgDxjt87m",
+      "name": "\ud83c\udf40PADDY - \ud83d\udcb0JITO-BAM",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.09,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "SWiz7QwnYPm61pWWUUkMhj4r5pZLP1SvYibdHcB2cov",
+      "name": "BOOP Wizard",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.09,
       "uptime": 0,
       "dataCenter": ""
     },
@@ -124,52 +142,7 @@
       "name": "Quantix",
       "commission": 0,
       "activeStake": 0.0,
-      "apy": 6.14,
-      "uptime": 0,
-      "dataCenter": ""
-    },
-    {
-      "identity": "8ebFZA8NPLBZD91CwsG1HWQsa2B5Ludgdyf5Hi3sYhhs",
-      "name": "stake.systems",
-      "commission": 0,
-      "activeStake": 0.0,
-      "apy": 6.15,
-      "uptime": 0,
-      "dataCenter": ""
-    },
-    {
-      "identity": "ADjyeNzWd8yhEjCVyAqT87eqoyGRbimERQsNhFQcXjop",
-      "name": "\ud83d\udca5InfiniteSOL\ud83d\udca5 0% Fees",
-      "commission": 0,
-      "activeStake": 0.0,
-      "apy": 6.15,
-      "uptime": 0,
-      "dataCenter": ""
-    },
-    {
-      "identity": "NordEHiwa6wT5TCjdeWJzpsA7DSmWQPqfSS7m2b6cv3",
-      "name": "nordstar \u2b50 reliable staking +MEV",
-      "commission": 0,
-      "activeStake": 0.0,
-      "apy": 6.14,
-      "uptime": 0,
-      "dataCenter": ""
-    },
-    {
-      "identity": "7PpXQgDb9eCHN1Uudgi77Wm89cRz4T85YgDw83qvaJXd",
-      "name": "Nodance \ud83d\udc83 00",
-      "commission": 0,
-      "activeStake": 0.0,
-      "apy": 6.15,
-      "uptime": 0,
-      "dataCenter": ""
-    },
-    {
-      "identity": "HVXXmNKkmDZbZwj74iL2Y9Wu4SyrchBoxAfFYVAktLrG",
-      "name": "fat tails lab",
-      "commission": 0,
-      "activeStake": 0.0,
-      "apy": 6.15,
+      "apy": 6.09,
       "uptime": 0,
       "dataCenter": ""
     },
@@ -178,7 +151,34 @@
       "name": "GERSIA",
       "commission": 0,
       "activeStake": 0.0,
-      "apy": 6.15,
+      "apy": 6.09,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "8ebFZA8NPLBZD91CwsG1HWQsa2B5Ludgdyf5Hi3sYhhs",
+      "name": "stake.systems",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.09,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "1unarWPGGseFag2WfnoFv8o9P7vTPU8eHex9GinP3eY",
+      "name": "Luminal",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.09,
+      "uptime": 0,
+      "dataCenter": ""
+    },
+    {
+      "identity": "NordEHiwa6wT5TCjdeWJzpsA7DSmWQPqfSS7m2b6cv3",
+      "name": "nordstar \u2b50 reliable staking +MEV",
+      "commission": 0,
+      "activeStake": 0.0,
+      "apy": 6.09,
       "uptime": 0,
       "dataCenter": ""
     }

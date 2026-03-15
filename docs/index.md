@@ -45,4 +45,4 @@ Compare and stake with the best Solana validators. We track the top 20 validator
 
 ## Latest Data
 
-Last updated: March 8, 2026
+Last updated: March 15, 2026
